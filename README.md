@@ -4,7 +4,7 @@
 
 基于ERC721标准发行DiscoverLive pass nft 为唯一凭证
 ```shell
-### 编译
+
 cd DiscoverLive
 
 ### Start docker devnet locallly
